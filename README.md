@@ -5,6 +5,6 @@ Deadwood is the full implementation of real the 2D boardgame by Cheapass Games, 
 
 ## Screenshots
 <div>
-<img width="300" alt="General game screen" src="./screenshots/normal.png">
-<img width="300" src="Dropdown menu screen" src="./screenshots/castingoffice.png">
+<img width="300" src="./screenshots/normal.png">
+<img width="300" src="./screenshots/castingoffice.png">
 </div>
