@@ -1,7 +1,10 @@
 # Deadwood
-Deadwood is the full implementation of real the 2D boardgame by Cheapass Games, LLC. Java swing library was used to implement graphic user interfaces. Object-oriented design and design patterns were applied for the efficient game system.
 
-*The source code of this project is not available to open publicly since it was for the school course. Please contact me if you are interested in getting more about this project. 
+```diff
+- Source code in this project is not available to open publicly since this is university class project. This repo includes only sample code.
+```
+
+Deadwood is desktop application for real-world board game called Deadwood. Java Swing toolkit was used to implement graphic user interfaces. Object-oriented design principle and software design patterns were applied for implementation of efficient game system.
 
 
 ## Screenshots
